@@ -1,7 +1,11 @@
+<div align="center">
+<strong><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
+</div>
+
 # mem-doc
 多年来，我与很多客户合作，帮助他们分析GC堆相关的性能问题。尽管性能问题经常有很大的不同，但有足够多的相似之处，我认为值得写一份指导性的文件，让人们在正确的道路上开始有效地进行.NET内存性能分析，或者给那些在性能方面已经有相当经验的人提供更多的知识和工具，使他们的工作更容易。
 
-本仓库中的[.NET内存分析文档](./doc/.NETMemoryPerformanceAnalysis-zh.md)包括以下内容-
+本仓库中的[.NET内存分析文档](./doc/.NETMemoryPerformanceAnalysis.zh-CN.md)包括以下内容-
 
 + 如何思考性能工作，如何挑选正确的方法进行内存分析。
 + 足够的内存基础知识，帮助你评估内存问题。
